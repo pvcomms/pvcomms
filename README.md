@@ -6,15 +6,13 @@ I did 100 hour weeks for more than a year at an AI-agent-for-LeadGen startup in 
 
 Nowadays, I'm fully nomadic and "slow travel." With my Mac Studio, of course.  
 
-I consult on product, primarily local-ai first products built on Proton Drive SDK and EU weights. My stack competence: https://paramv.com/dev; My fun "attention curation" builds: https://paramv.com/downloads
+I consult on product, primarily local-ai first products built on Proton Drive SDK and EU weights. My stack competence: https://paramv.com/dev; My fun personal "attention curation" builds: https://paramv.com/downloads
 
 All my stuff is self-hosted; I'm contra big tech and have DeGoogled, DeMetaed, DeAmazoned. Unable to DeApple but trying...
 
-I read a lot, write a lot, and am an extremely curious and thready/a person. My ontology: https://paramv.com/words
+I read a lot, write a lot, and am an extremely curious and thready/analogical person. My ontology: https://paramv.com/words
 
 My undergrad's in Psychology & Judaic Studies and my Masters is in Strategy & Analytics.
-
-The public repos here are mostly skeletal workups of personal tools I've built to curate my attention diet.
 
 I also do research across the social sciences at The Center For Applied PostPhenomenology (CAPP).
 
